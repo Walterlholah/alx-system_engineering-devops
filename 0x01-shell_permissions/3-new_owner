@@ -1,3 +1,2 @@
 #!/bin/bash
 suda chown betty hello
-chmod a+x hello
